@@ -1,3 +1,0 @@
-/home/pirate/dev/c++/ping-pong-multiplayer/client/cmake-build-debug/CMakeFiles/client.dir
-/home/pirate/dev/c++/ping-pong-multiplayer/client/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/pirate/dev/c++/ping-pong-multiplayer/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
